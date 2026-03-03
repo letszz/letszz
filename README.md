@@ -35,9 +35,5 @@ I believe that **UI/UX** is the heart of any application. My goal is to master t
 ### 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/maria-leticia2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leticia" height="30" width="40" /></a>
-<a href="mailto:mleticiacp@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Leticia" height="30" width="40" /></a>
-</p>
 
-<p align="center">
-  <i>"Design is not just what it looks like, it's how it works."</i> 🚀
-</p>
+
