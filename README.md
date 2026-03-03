@@ -29,11 +29,6 @@ I'm a **System Analysis and Development (ADS)** student with a deep passion for 
 ### 🎨 Design & Logic
 I believe that **UI/UX** is the heart of any application. My goal is to master the art of turning complex problems into simple, beautiful, and mobile-friendly solutions. 📱💻
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letszz&layout=compact&theme=dracula" alt="Top Languages">
-</p>
 
 ---
 
