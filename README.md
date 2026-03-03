@@ -1,7 +1,7 @@
 # Hi there, I'm Letícia! 👋 ✨
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm56M3Jmd3IyZHJqd3dnN203cWZqYzNxZXo0dmh0d3o2bnh1Mm9vdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" alt="Coding GIF" width="600px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm56M3Jmd3IyZHJqd3dnN203cWZqYzNxZXo0dmh0d3o2bnh1Mm9vdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" alt="Coding GIF" width="200px">
 </p>
 
 ### 👩‍💻 About Me
